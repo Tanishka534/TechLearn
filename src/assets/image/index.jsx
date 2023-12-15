@@ -1,0 +1,15 @@
+export const Dbms = require('./Dbms.jpg');
+export const Dp = require('./Dp.png');
+export const Dsa = require('./Dsa.png');
+export const Flutter = require('./Flutter.png');
+export const Hero = require('./Hero.png');
+export const Ios = require('./Ios.png');
+export const Java = require('./Java.jpeg');
+export const Linux = require('./Linux.png');
+export const Machine = require('./Machine.jpg');
+export const Notes = require('./Notes.png');
+export const Oops = require('./Oops.png');
+export const Os = require('./Os.jpg');
+export const Sql = require('./Sql.png');
+export const User = require('./user.png');
+export const Youtube = require('./Youtube.png');
